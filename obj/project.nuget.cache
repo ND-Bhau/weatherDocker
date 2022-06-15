@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yCP+FAwjEDzSOtzpTvr2GdSl1yCMPO5dcubWeVNftVayhkj+ykNbp4jJ5Q8WXaUedaLwg9KFd0MY4Co8nuonxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NikhilD\\source\\repos\\weatherAPIDockerDemo\\weatherAPIDockerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NikhilD\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
